@@ -11,6 +11,7 @@ public class HolaGit {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola Mundo Git");
+        System.out.println ("Probando el nuevo cambio");
     }
     
 }
